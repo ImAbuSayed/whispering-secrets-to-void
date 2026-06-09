@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Whispering Secrets To Void
+
+This log tracks the cryptographic history and versioning for the song **Whispering Secrets To Void** (whispering-secrets-to-void).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T19:34:05.083658 | `v1` | `2ab163b9700aba06889b9ab322237a29104c2be11d1b3238d02a4a0e8f69fd4a` | `f54504c5d44b8eb289dbfba47e6a17c9d67224f453e5d811aa20618f53f54513` | `2026-06-09_whispering-secrets-to-void-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

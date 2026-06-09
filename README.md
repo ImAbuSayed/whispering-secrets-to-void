@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whispering-secrets-to-void/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Whispering Secrets To Void](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-secrets-to-void/) |
+| **Get License** | [Secure Licensing Rights for Whispering Secrets To Void](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-secrets-to-void/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2ab163b9700aba06889b9ab322237a29104c2be11d1b3238d02a4a0e8f69fd4a` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
