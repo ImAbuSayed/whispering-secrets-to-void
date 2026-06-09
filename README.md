@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whispering-secrets-to-void/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Whispering Secrets To Void](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-secrets-to-void/) |
+| **Get License** | [Get License For Whispering Secrets To Void](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-secrets-to-void/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight shadows dancing on the edge of your skin
+> A quiet kind of fire where the magic begins
+> I trace the little secrets that you hide in your smile
+> I want to get lost in your eyes for a while
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
